@@ -1,0 +1,10 @@
+﻿  a29_Date_project.cpp
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\clsString.h(138,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\clsString.h(142,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\clsString.h(155,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\clsString.h(236,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\clsString.h(264,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\clsString.h(308,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\clsString.h(427,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\clsString.h(488,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  a29_Date_project.vcxproj -> D:\Courses\CS_FOundations\C++\1- visual_studio_c++_repo_OOP\a29_Date_project\x64\Debug\a29_Date_project.exe
